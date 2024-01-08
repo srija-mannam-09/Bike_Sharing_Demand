@@ -6,9 +6,11 @@ The company wants to find out the key driving factors for the demand for shared 
 
 Solution:
 
-exploratory data analysis
-data cleaning.
-feature selection with the help of RFE and Variance Inflation Factor and p-value.
-used LinearRegression from SKLearn and OLS from statsmodels for building the model.
-validated the linear regression assumptions
+1. exploratory data analysis
+2. data cleaning
+3. feature selection with the help of RFE and Variance Inflation Factor and p-value
+4. used LinearRegression from SKLearn and OLS from statsmodels for building the model
+5. validated the linear regression assumptions
+
+   
 Link to dataset: https://www.kaggle.com/competitions/bike-sharing-demand/data
